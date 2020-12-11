@@ -18,3 +18,5 @@ Naložitev kode (Run) in opazovanje delovanja na STM32L1:
 a) Opazujte delovanje (utripanje modre LED). Kaj se zgodi, ko pritisnemo na modro tipko na STM32L1?
 ____Ob pritisku modre tipko se prižiga in ugaša zelena LED dioda. Modra led dioda pa vedno utripa s frekvenco 1 Hz.____
 b) Ali pritisk na modro tipko vpliva na utripanje modre LED in zakaj? _____Pritisk na modro tipko ne vpliva na utripanje modre LED, ker smo nastavili interrupt na tipko_____.
+
+Komentar: Program deluje dobro in z njim pri programiranju in delovanju nisem imel večjih težav.
